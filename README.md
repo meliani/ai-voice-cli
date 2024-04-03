@@ -33,15 +33,21 @@ export GROQ_API_KEY="your-groq-api-key"
 export DG_API_KEY="your-deepgram-api-key"
 ```
 
-### Run the app
+### Quick Run
+
+#### From sh or bat file
+
+This will register the API keys and run the app.
 
 ```bash
 ./run.sh
 ```
 
-or
+### Or Run with python internpreter
 
 #### For CLI
+
+Register the API keys as environment variables and run the code.
 
 ```bash
 python cli/app.py
