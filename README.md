@@ -16,7 +16,7 @@ This is a simple project to demonstrate how to use AI Api's and mix them to crea
 ### Clone the repository
 
 ```bash
-git clone https://github/your-username/your-repo
+git clone https://github.com/meliani/groq-deepgram-cli.git
 ```
 
 ### Install dependencies
