@@ -4,12 +4,11 @@ Prompt AI Voice Assistant (mix from groq and Deepgram Free APIs) to create a bla
 
 ## Available models
 
-Meta : llama2-70b-4096
-Google : gemma-7b-it
-Mistral AI : mixtral-8x7b-32738
+- Meta : llama2-70b-4096
+- Google : gemma-7b-it
+- Mistral AI : mixtral-8x7b-32738
 
 This is a simple project to demonstrate how to use AI Api's and mix them to create new interesting stuff.
-
 
 ## Installation
 
