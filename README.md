@@ -61,4 +61,4 @@ python web/app.py
 
 # Contribute
 
-Contributons are always welcome : fork -> create branch ->push to your repo -> open PR on the main repo (github.com/meliani/groq-deepgram-voice-cli)
+Contributons are always welcome : fork -> create branch ->push to your repo -> open PR on the main repo (github.com/meliani/ai-voice-cli)
