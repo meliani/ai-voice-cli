@@ -58,3 +58,7 @@ python cli/app.py
 ```bash
 python web/app.py
 ```
+
+# Contribute
+
+Contributons are always welcome : fork -> create branch ->push to your repo -> open PR on the main repo (github.com/meliani/groq-deepgram-voice-cli)
