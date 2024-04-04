@@ -61,4 +61,4 @@ python web/app.py
 
 # Contribute
 
-Contributons are always welcome : fork -> create branch ->push to your repo -> open PR on the main repo ([https://github.com/meliani/ai-voice-cli])
+Contributons are always welcome : fork -> create branch ->push to your repo -> open PR on the main repo [meliani/ai-voice-cli](https://github.com/meliani/ai-voice-cli)
